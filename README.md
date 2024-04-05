@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](header.png)]
 
 
-[![kord_rahis's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitevoid90)](https://github.com/whitevoid90/github-readme-stats)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitevoid90&show_icons=true&theme=transparent)
