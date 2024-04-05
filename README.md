@@ -28,5 +28,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=whitevoid90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+</div>
+
+
 
 
