@@ -58,6 +58,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="ubuntu" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="xd" alt="Java" width="40" height="40"/>&nbsp;
 
+  ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
   
    
 
