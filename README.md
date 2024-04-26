@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+👽 Alien voyager exploring the uncharted realms of technology and beyond. 🚀
+
+🌌 Obsessed with quantum physics and the enigmatic world of quantum computing. 🌟
+
+💀 On a quest for immortalizing humanity through futuristic technology and the resurrection of the past.
+
+🔭 Roaming the cosmos, bending reality, and devouring the secrets of the universe.
+
+🧠 Insatiably hungry for knowledge and power to rewrite the rules of existence.
+
+🌟 Let's transcend limitations together! Connect with me on LinkedIn. 🌌🔮
+
+
 <!--
 **whitevoid90/whitevoid90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
